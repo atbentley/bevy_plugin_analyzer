@@ -1,0 +1,11 @@
+[package]
+name = "bevy_plugin_analyzer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ra_ap_hir = "0.0.139"
+ra_ap_rust-analyzer = "0.0.139"
+ra_ap_project_model = "0.0.139"
